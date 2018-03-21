@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Contact</string>
+    <string name="fb">Facebook</string>
+    <string name="add">Address</string>
+    <string name="phone">Phone Number</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+</resources>

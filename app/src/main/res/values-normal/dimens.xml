@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="small_ava">70dp</dimen>
+    <dimen name="margin_small_ava">8dp</dimen>
+    <dimen name="margin_text">10dp</dimen>
+    <dimen name="text_width">160dp</dimen>
+    <dimen name="bigtext">20sp</dimen>
+    <dimen name="smalltext">16sp</dimen>
+    <dimen name="button">50dp</dimen>
+    <dimen name="big_ava">130dp</dimen>
+    <dimen name="name_text">30sp</dimen>
+    <dimen name="margin_profile">14dp</dimen>
+    <dimen name="big_ava_margin">20dp</dimen>
+</resources>
