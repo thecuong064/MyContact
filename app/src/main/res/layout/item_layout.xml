@@ -39,7 +39,7 @@
         android:id="@+id/mes"
         android:layout_width="@dimen/button"
         android:layout_height="@dimen/button"
-        android:layout_toEndOf="@id/fullname"
+        android:layout_toStartOf="@id/call"
         android:layout_alignTop="@id/fullname"
         android:src="@drawable/mes_icon"/>
 
@@ -47,7 +47,7 @@
         android:id="@+id/call"
         android:layout_width="@dimen/button"
         android:layout_height="@dimen/button"
-        android:layout_toEndOf="@id/mes"
         android:layout_alignTop="@id/fullname"
-        android:src="@drawable/call"/>
+        android:src="@drawable/call"
+        android:layout_alignParentEnd="true"/>
 </RelativeLayout>
